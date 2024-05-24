@@ -88,7 +88,6 @@ Kodun çalıştırılması sonucunda, her misafirin belirlenen sınırlar içind
 - [Dining Philosopher GitHub](https://github.com/rupakraj/dining-philosopher)
 - [Dining Philosophers GUI GitHub](https://github.com/Ankit512/Dining-Philosophers-GUI)
 
-//ENGLISH PART
 ## About the Project 
 
 This project simulates a party scenario where a waiter, hired from a catering company, serves various food and drinks to eight guests. The project includes consumable items such as pastries, cake, and drinks, with each guest consuming these items in specific amounts.
@@ -163,7 +162,6 @@ To run the project, follow these steps:
    ```sh
    javac food_tray.java waiter.java
    java waiter
-   '''sh
 ## Results
 
 Upon running the code, it will be observed that each guest consumes food and drinks within the specified limits, and the waiter refills the trays as needed. The synchronization mechanism will ensure correct operation and data integrity.
