@@ -1,6 +1,6 @@
 # Party Management Simulation
 
-## Proje Hakkında
+## Proje Hakkında | [English](#about-the-project) | [Turkish](#proje-hakkında)
 
 Bu proje, bir catering şirketinden kiralanan bir garsonun sekiz misafire çeşitli yiyecek ve içecek servis ettiği bir parti senaryosunu simüle eder. Projede börek, pasta ve içecek gibi tüketilebilir maddeler yer almakta olup, her bir misafir belirli miktarlarda bu maddelerden tüketmektedir.
 
@@ -10,7 +10,19 @@ Bu proje, bir catering şirketinden kiralanan bir garsonun sekiz misafire çeşi
 - **Tepsi Kapasitesi:** Her tepside 5 adet ürün
 - **Misafir Tüketim Sınırları:** Her misafir maksimum 4 börek, 4 içecek ve 2 dilim pasta tüketebilir
 - **Garson:** Tepsilerdeki yiyecek ve içecek miktarını sürekli kontrol eder ve tepsileri gerekli olduğunda doldurur
+## İçindekiler
 
+- [Proje Hakkında](#proje-hakkında)
+- [Özellikler](#özellikler)
+- [Proje Yapısı](#proje-yapısı)
+  - [Ana Dosyalar](#ana-dosyalar)
+  - [Kullanılan Yöntemler](#kullanılan-yöntemler)
+- [Kod Açıklamaları](#kod-açıklamaları)
+  - [food_tray.java](#food_trayjava)
+  - [waiter.java](#waiterjava)
+- [Çalıştırma](#çalıştırma)
+- [Sonuçlar](#sonuçlar)
+- [Referanslar](#referanslar)
 ## Proje Yapısı
 
 ### Ana Dosyalar
